@@ -58,7 +58,7 @@ The outcome should look something like this:
 
 #### ** If the training goes well, the graphs should look something like this **
 
-![Terminal screen_4](https://github.com/Satyaki0924/language-translation-english-to-french/blob/master/res/plot.png?raw=true "Terminal4")
+![Plot](https://github.com/Satyaki0924/language-translation-english-to-french/blob/master/res/plot.png?raw=true "Plot")
 
 ### Author: Satyaki Sanyal
 #### *** This project is strictly for educational purposes only. ***
